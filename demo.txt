@@ -1,3 +1,5 @@
 My first demo git.
 
 I want to try merging.
+
+Just a commit.
