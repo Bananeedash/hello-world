@@ -15,4 +15,7 @@ describe('EMR login',function(){
 	 expect(element(by.xpath("//html/body/app/div/undefined/section/a")).isDisplayed()).toBe(true);
   
 	});
+  it('is another spec',function(){
+  	expect(true).toBe(true);
+  });
 });
